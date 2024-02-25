@@ -21,7 +21,7 @@ const items = [
   },
   {
     id: 4,
-    title: "Library management system with Django",
+    title: "Library management system using Django",
     img: "pexels-polina-zimmerman-3747505.jpg",
     desc: "Used Technology:- HTML, CSS, JavaScript, Python, DJango, RestFul-API, SQL-Lite, some python packages",
   },
